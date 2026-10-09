@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://aqzara-ai.github.io/Aqzara.AI-github.io/sitemap.xml
